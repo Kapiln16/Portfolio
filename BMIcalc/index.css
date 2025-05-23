@@ -1,0 +1,59 @@
+body{
+    background-color: beige;
+    height: auto;
+    padding: 0;
+    margin: 0;
+}
+header{
+    padding: 4vh;
+    color: gray;
+    font-size: 25px;
+    text-align: center;
+
+}
+#mode{
+     border: none;
+     width: 0;
+     height: 0;
+     margin-top: -100px;
+}
+
+
+.main{
+    width: 50vw;
+    height: 50vh;
+    background-color: grey;
+    margin: auto;
+    text-align: center;
+    padding: 2vh;
+    font-size: 25px;
+}
+
+.bulb{
+    width: 30px;
+    height: auto;
+    border: solid rgb(0, 0, 0) 1px ;
+    border-radius:  50%;
+    align-self: left ;
+    margin-left: 85vw;
+    margin-top: 6vh;
+}
+
+.loadline{
+   height: 2vh;
+   width: 100%;
+   background-color: gray;
+}
+
+#submit{
+    width: auto;
+    height: 40px;
+    font-size: 20px;
+}
+footer{
+    margin-top: 10vh;
+    text-align: center;
+    width: 100vw;
+    height: 3vh;
+    background-color: grey;
+}
