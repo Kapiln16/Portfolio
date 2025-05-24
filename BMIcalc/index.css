@@ -27,6 +27,8 @@ header{
     text-align: center;
     padding: 2vh;
     font-size: 25px;
+    color: beige;
+    border-radius: 3%;
 }
 
 .bulb{
@@ -56,4 +58,9 @@ footer{
     width: 100vw;
     height: 3vh;
     background-color: grey;
+}
+#submit{
+    color: beige;
+    background-color: gray;
+    border-radius: 10%;
 }
